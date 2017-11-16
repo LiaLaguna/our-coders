@@ -1,0 +1,38 @@
+.container {
+  width: 720px;
+}
+
+.coder {
+  float: left;
+  padding: 10px;
+}
+
+.coder2 {
+  float: left;
+  padding: 10px;
+}
+
+h2 {
+  color: #404040;
+  font-family: sans-serif;
+  margin: 10px;
+  padding: 0px;
+}
+
+h4 {
+  position: relative;
+  color: white;
+  font-family: sans-serif;
+  text-shadow: 1.5px 1.5px #000;
+  text-align: right;
+  bottom: 50px;
+  right: 10px;
+}
+
+/* Línea de subrayado del título h2 */
+.line {
+  width: 90px;
+  border-bottom: 5px solid #404040;
+  margin: 10px;
+  padding: 0px;
+}
